@@ -2,5 +2,4 @@ streamlit
 pandas
 plotly
 matplotib
-yfinance
-scikit-learn
+
